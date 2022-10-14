@@ -1,0 +1,114 @@
+
+/* back button */
+
+.back-books-bar{
+    position: fixed;
+    width: 100%;
+    top: 0;
+    left: 0;
+    z-index: 5;
+    display: flex;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 0 6px rgba(0, 0, 0, 0.23);
+}
+
+.back-books-input-wrapper {
+    flex: 1;
+    background: white;
+}
+
+
+
+/* Detail Page */
+
+.product{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.product-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 100px;
+    transform: translateY(5%);
+    padding: 80px 200px 20px;
+}
+
+.product-image{
+    margin-left: 30%;
+}
+
+.product-text{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.product-title{
+    font-size: 25px;
+}
+
+.product-subtitle{
+    font-weight: 200;
+}
+
+.shelf{
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 7px;
+}
+
+.product-shelf{
+    font-style: italic;
+}
+
+.date, 
+.publisher, 
+.star-rating{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 7px;
+}
+
+.product-publisher{
+    font-style: italic;
+}
+
+.fa-star{
+    transform: translateY(-1px);
+}
+
+.checked{
+    color: orange;
+}
+
+.authors{
+    gap: 10px;
+    margin-top: 10px;
+}
+
+.product-author{
+    margin-left: 70px;
+    font-style: italic;
+}
+
+.product-description{
+    font-weight: bold;
+}
+
+.description-title{
+    width: 700px;
+    text-align: justify;
+    margin-top: 10px;
+}
+
+
+
+
