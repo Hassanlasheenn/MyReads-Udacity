@@ -79,9 +79,15 @@ https://my-reads-8c75aa.netlify.com/
 
 In order to get the book information just import from [BooksAPI.js](https://github.com/udacity/nd0191-c1-myreads/blob/main/starter/src/BooksAPI.js) file and fetch using those three functions:
 
-* getAll 
-* update 
-* search 
+```js
+getAll();
+```
+```js
+update(book, shelf);
+```
+```js
+search(query);
+```
 
 
     
