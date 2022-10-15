@@ -89,6 +89,10 @@ update(book, shelf);
 search(query);
 ```
 
+## Contributors
+
+![GitHub Contributors Image](https://contrib.rocks/image?repo=Hassanlasheenn/MyReads-Udacity)
+
 
     
 ## Screenshots
