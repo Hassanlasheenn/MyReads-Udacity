@@ -7,7 +7,7 @@
 
 
 ## Acknowledgements
- - This web app is created using React Js from the [Udacity Nanodegree program.](https://www.udacity.com/course/react-nanodegree--nd019)
+ - This web app is created using React Js from the [Udacity Nanodegree program](https://www.udacity.com/course/react-nanodegree--nd019)
 
 
 ### Table of Contents
